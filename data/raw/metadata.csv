@@ -1,0 +1,17 @@
+No,Column name,Description
+1,bedrooms,Number of bedrooms
+2,bathrooms,Number of bathrooms
+3,sqft_living,House area
+4,sqft_lot,Total area
+5,floors,Number of floors
+6,waterfront,Next to area of water (1 or 0)
+7,view,View  scale (1 - lowest to 5 – highest)
+8,condition,Condition scale (1 - lowest to 5 – highest)
+9,sqft_above,Total area for upper floors
+10,sqft_basement,Total area for basement
+11,yr_built,First build
+12,yr_renovated,Last renovated
+13,street,Street location
+14,city,City location
+15,statezip,Zip
+16,price,Price
